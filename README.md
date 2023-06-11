@@ -21,5 +21,5 @@
 1. Press 'r' to select Ro.
 
 #### Remember to hold shift when pressing (<) or (>).
-
+---
 - Time spent: 4 hours.
